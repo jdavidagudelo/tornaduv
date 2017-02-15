@@ -64,7 +64,7 @@ If you want to run the Tornado test suite using tornaduv run the following comma
 Authors
 =======
 
-Saúl Ibarra Corretgé <saghul@gmail.com>
+Saul Ibarra Corretge <saghul@gmail.com>
 Marc Schlaich <marc.schlaich@gmail.com>
 
 

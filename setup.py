@@ -11,7 +11,7 @@ setup(
     name             = 'tornaduv',
     version          = get_version(),
     url              = 'https://github.com/saghul/tornaduv',
-    author           = 'Saúl Ibarra Corretgé',
+    author           = 'Saul Ibarra Corretge',
     author_email     = 'saghul@gmail.com',
     license          = 'MIT License',
     description      = 'Tornado IOLoop implementation with pyuv',
